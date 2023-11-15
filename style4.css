@@ -25,4 +25,13 @@
   display: inline;
   font-weight: bold;
 }
+.block {
+   display: block;
+   font-weight: bold;
+}
+
+h3 {
+   background-color: aquamarine;
+   text-align: center:
+}
 
