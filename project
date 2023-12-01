@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Navigation -->
+  <nav>
+    <ul>
+      <li><a href="#about">About Me</a></li>
+      <li><a href="#skills">Skills</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#education">Education</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <!-- About Me Section -->
+  <section id="about">
+    <h1>About Me</h1>
+    <p><h1>About Me</h1>
+  <p>Hello, I'm [Daria Paterau], a 10 grader student what is learning step by step HTML and CSS codes at school.</p>
+  
+  <p>My journey in the world of programming began with a fascination for problem-solving and creating innovative solutions. I thrive on challenges that push me to think outside the box and continually expand my knowledge.</p>
+  
+  <p>With a solid foundation in languages like HTML, CSS, and JavaScript, I've delved deeper into backend technologies such as Node.js and databases like MongoDB. I'm also enthusiastic about learning new frameworks and tools to further enhance my skills.</p>
+  
+  <p>When I'm not coding, you'll often find me exploring the latest trends in tech, collaborating on open-source projects, or honing my skills through online courses and hackathons.</p>
+  
+  <p>I'm excited to leverage my expertise and creativity to contribute meaningfully to the ever-evolving tech landscape. Feel free to explore my projects and skills showcased on this portfolio!</p>
+</section></p>
+  </section>
+
+  <!-- Skills Section -->
+  <section id="skills">
+    <h1>Skills</h1>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <!-- Add more skills -->
+    </ul>
+  </section>
+
+  <!-- Projects Section -->
+  <section id="projects">
+    <h1>Projects</h1>
+    <div class="project">
+      <h2>Project Title</h2>
+      <p>Description of the project.</p>
+    </div>
+    <!-- Add more project items -->
+  </section>
+
+  <!-- Education Section -->
+  <section id="education">
+    <h1>Education</h1>
+    <div class="education-item">
+      <h2>Degree Name</h2>
+      <p>School/University Name</p>
+      <p>Year of Completion</p>
+    </div>
+    <!-- Add more education items -->
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact">
+    <h1>Contact</h1>
+    <p>Email: yourname@example.com</p>
+    <p>Phone: 123-456-7890</p>
+    <!-- Add contact form if desired -->
+  </section>
+
+</body>
+</html>
