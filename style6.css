@@ -32,15 +32,11 @@
     }
 }
 
-/* Apply animation on hover */
 .book:hover {
-    animation: open-book 3s forwards; /* Added animation property */
+    animation: open-book 3s forwards; 
 }
 
 
-/* Put your styles ABOVE this line */
-/* Pre-built styles that you don't need to worry about. Don't change
-these*/
 .book{
     position:relative;
     background-size:100% 100%;
@@ -51,7 +47,7 @@ these*/
 .text{
     position: fixed;
     text-align:left;
-    visibility:hidden; /* hide the text for now */
+    visibility:hidden;
     font-size:16px;
 }
 
@@ -63,12 +59,11 @@ these*/
 }
 
 ul{
-    list-style-type:none;  /* remove bullets */
+    list-style-type:none;  
 }
 
 li{
-    display:inline-flex; /* force list items to be in one line */
-
+    display:inline-flex; 
 }
 body{
     background-color: tan;
