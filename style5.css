@@ -1,38 +1,26 @@
-* {
+*{
   padding: 0;
   margin: 0;
 }
-
-.nav {
+.nav{
   background-color: rgb(253, 185, 185);
   height: 20px;
-  padding: 10px;
-  text-align: center;
+  text-allign: center;
   margin-bottom: 10px;
 }
 
-.banner {
-  background-color: navy blue;
+.banner{
+  background-color: ForestGreen;
   height: 200px;
 }
 
-.content {
-  background-color: rgb(246, 213, 213);
-  height: 400px;
-}
-
-
-.footer {
+.content{
   background-color: rgb(37, 27, 27);
   height: 20px;
   height: 100px;
 }
 
-
-img {
+img{
   width: 100%;
-
-  filter: grayscale(100%) invert(100%);
+  filter: grayscale(20%);
 }
-              
-  
